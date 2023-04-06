@@ -4,7 +4,7 @@
 
 用到的软件我都传到了 百度网盘 如果不放心软件 可以自行下载安装 其中的poc.exe 中有 .py源码 可以以源码形式运行 
 
-还不会的可以联系我 1498032121@qq.com 
+还不会的可以联系我(有想学网安的也可以哦) 1498032121@qq.com 
 
 ```
 链接：https://pan.baidu.com/s/1n87lwccvtU0EtjBditlJ6g?pwd=r4ru 
