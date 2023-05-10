@@ -65,7 +65,7 @@ http://burpsuite/
 
 接着打开 proxifier  选择代理服务器
 
-![image-20230406154818332](file:///D:/MyCtf/img/image-20230406154818332.png?lastModify=1680768738)
+![image-20230406154818332](https://wanan-1310031509.cos.ap-beijing.myqcloud.com/img/image-20230406154818332.png)
 
 ![image-20230406161440752](https://wanan-1310031509.cos.ap-beijing.myqcloud.com/img/image-20230406161440752.png)
 
