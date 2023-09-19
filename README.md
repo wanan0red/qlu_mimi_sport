@@ -7,8 +7,8 @@
 还不会的可以联系我(有想学网安的也可以哦) 1498032121@qq.com 
 
 ```
-链接：https://pan.baidu.com/s/1n87lwccvtU0EtjBditlJ6g?pwd=r4ru 
-提取码：r4ru
+链接：https://pan.baidu.com/s/1a6aiF2rYJSjt5HJddqboeA?pwd=6rjx 
+提取码：6rjx
 ```
 
 首先我们需要先下载一个电脑版的微信
