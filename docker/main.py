@@ -7,6 +7,9 @@ import requests
 import urllib3
 import schedule
 
+
+token_lsit = ['123456', '789']
+
 def main_fu(youtoken):
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
     getline = "https://admin.report.mestallion.com/api/mini/sport/getline"
@@ -68,8 +71,9 @@ def main_fu(youtoken):
 
 def start():
     time.sleep(random.randint(1, 35))
-    youtoken = ['06029433864941268244ba1260030913']
+    youtoken = token_lsit
     for i in youtoken:
+        time.sleep(random.randint(1, 35))
         main_fu(i)
 
 
